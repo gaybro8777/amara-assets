@@ -81,7 +81,7 @@
     "stream-http": "^2.8.3",
     "syntax-error": "^1.4.0",
     "uglify-js": "^3.4.8",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "util": "^0.10.4",
     "venobox": "^1.8.4",
     "vinyl-buffer": "^1.0.1",
